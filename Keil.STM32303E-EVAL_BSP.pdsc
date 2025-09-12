@@ -17,12 +17,13 @@
     <release version="1.0.1-dev">
       Active development ...
       Blinky project:
-      - specify thread names using thread attributes
-      - rename thread IDs
-      - modify app_main_thread (replace loop forever)
-      - add DWARF-5 debug information
-      - added Blinky+STM32303E-EVAL.dbgconf and Blinky+STM32303E-EVAL.dbgconf.base@0.0.0 files.
-      - updated RTE_Components.h file.
+      - Specified thread names using thread attributes
+      - Renamed thread IDs
+      - Modified app_main_thread (replaced loop forever)
+      - Added dbgconf files
+      - Added DWARF-5 debug information
+      - Added generated output files
+      - Updated RTE_Components.h file
     </release>
   </releases>
 
